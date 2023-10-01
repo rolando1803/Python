@@ -1,0 +1,17 @@
+# Sintaxis Básica IV Funciones II. Vídeo 6
+
+![image](https://github.com/rolando1803/Python/assets/55965131/9f62a353-9dda-4072-925a-648d1e56eadf)
+![image](https://github.com/rolando1803/Python/assets/55965131/22e61210-6f0d-48cc-9da1-f5a722682d1b)
+![image](https://github.com/rolando1803/Python/assets/55965131/3d3e5e0a-8ca6-47aa-93f1-e84a6d9f16d0)
+![image](https://github.com/rolando1803/Python/assets/55965131/efd0eece-512c-48d1-b8b0-dd1470452ee2)
+![image](https://github.com/rolando1803/Python/assets/55965131/282af828-0ae9-48a9-b739-4aa123ac88d2)
+![image](https://github.com/rolando1803/Python/assets/55965131/4302768a-2bd7-4e38-bf32-300a29265991)
+![image](https://github.com/rolando1803/Python/assets/55965131/9b572418-ae9d-456a-929a-765939c9012f)
+![image](https://github.com/rolando1803/Python/assets/55965131/a11abb3c-45e5-444e-a830-5d557b598145)
+![image](https://github.com/rolando1803/Python/assets/55965131/2317794f-4713-480b-b284-ad26a6669a9b)
+![image](https://github.com/rolando1803/Python/assets/55965131/53648f25-aaa1-4324-90f9-c41d845895e8)
+![image](https://github.com/rolando1803/Python/assets/55965131/ef00dc63-d0d0-4eaa-aa79-fc150e6799ca)
+![image](https://github.com/rolando1803/Python/assets/55965131/f509384d-f2a7-49c3-9252-a619807e6ee9)
+![image](https://github.com/rolando1803/Python/assets/55965131/2d488627-0ca6-4f24-9584-1a65cffc1208)
+![image](https://github.com/rolando1803/Python/assets/55965131/34bd40e5-71bc-40d1-900c-a316b4691572)
+![image](https://github.com/rolando1803/Python/assets/55965131/7e8c8fb6-4f8f-418a-ad13-64cc897b950c)
