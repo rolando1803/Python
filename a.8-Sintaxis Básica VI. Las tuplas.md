@@ -1,6 +1,5 @@
 # Sintaxis Básica VI. Las tuplas. Vídeo 8
 
-![image](https://github.com/rolando1803/Python/assets/55965131/94fa8eba-399f-4c45-9552-8a5f06337ffc)
 ![image](https://github.com/rolando1803/Python/assets/55965131/f8cc0f68-9cb4-44df-8c91-cead1f423b16)
 ![image](https://github.com/rolando1803/Python/assets/55965131/cee11a1b-69a1-4670-b29e-711747d741a7)
 ![image](https://github.com/rolando1803/Python/assets/55965131/d808bb07-5454-46b4-bacb-72b6b13c40d3)
