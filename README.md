@@ -80,5 +80,3 @@
 ### h.76-Documentación y pruebas
 ### h.77-Documentación y pruebas II
 ### h.78-Generar ejecutables. Fin de curso
-![image](https://github.com/rolando1803/Python/assets/55965131/679bc30f-d372-467d-ab84-5b5e4ebd8d32)
-
